@@ -8,7 +8,7 @@ Welcome to the Photography Business Website project. This website is designed to
 
 ## Project URL
 
-[Photography Business Website](https://aviacharya1.github.io/PhotographyWebsite/)
+[Photography Website](https://aviacharya1.github.io/PhotographyWebsite/)
 
 ## Table of Contents
 
@@ -76,7 +76,7 @@ You can also connect with us on our social media profiles:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 
-This `README.md` file includes essential information about the project, such as its features, technologies used, setup instructions, usage, and contact information. Feel free to modify the contact details and social media links according to your specific information.
+## This `README.md` file includes essential information about the project, such as its features, technologies used, setup instructions, usage, and contact information. Feel free to modify the contact details and social media links according to your specific information.
