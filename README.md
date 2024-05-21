@@ -67,13 +67,6 @@ For any questions or further information, please reach out to:
 - **Name**: [Avi_Acharya]
 - **Email**: [aviacharyasr@gmail.com]
 
-
-You can also connect with us on our social media profiles:
-
-- **Facebook**: [Your Facebook Profile]
-- **Twitter**: [Your Twitter Profile]
-- **Instagram**: [Your Instagram Profile]
-
 ## License
 
 - This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
